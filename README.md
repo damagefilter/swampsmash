@@ -13,6 +13,9 @@ What you will have to get from the asset store is the AStar Pathfinding Project.
 It's free and only used for the grounded mobs path finding.
 You might aswell try to replace it with something home-brew.
 
+You will also need to get a copy of protobuf-net from here: [https://github.com/mgravell/protobuf-net/releases]
+or as a nu-get package if you're rolling that way :)
+It's used to read and write highscores.
 
 If there's anything else that breaks, let me know, I'll see what I can do.
 
