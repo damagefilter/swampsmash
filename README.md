@@ -7,5 +7,14 @@ The code is of gamejam quality (that means it might be really quirky) but perhap
 
 So I put it up here.
 
+## Notes
+I have removed all material that might infringe any copyright or distribution agreement.
+What you will have to get from the asset store is the AStar Pathfinding Project.
+It's free and only used for the grounded mobs path finding.
+You might aswell try to replace it with something home-brew.
+
+
+If there's anything else that breaks, let me know, I'll see what I can do.
+
 
 Have fun :)
